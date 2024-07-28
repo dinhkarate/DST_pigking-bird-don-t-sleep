@@ -1,8 +1,8 @@
 -- This information tells other players more about the mod
-name = "Pigking Don't Sleep"
+name = "Pigking & Bird Don't Sleep"
 description = "Can't trade at night, lack of gold in light out mode? This is the solution"
 author = "dinhkarate"
-version = "11.111" -- This is the version of the template. Change it to your own number.
+version = "12.1" -- This is the version of the template. Change it to your own number.
 forumthread = ""
 
 -- 1.4.5 fix tab

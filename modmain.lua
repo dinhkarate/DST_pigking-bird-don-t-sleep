@@ -11,7 +11,7 @@ local function RemoveSleeperComponent(inst)
     
     end
     
-    AddPrefabPostInit("crow", RemoveSleeperComponent)
-    AddPrefabPostInit("robin", RemoveSleeperComponent)
-    AddPrefabPostInit("robin_winter", RemoveSleeperComponent)
-    AddPrefabPostInit("canary", RemoveSleeperComponent)
+AddPrefabPostInit("crow", RemoveSleeperComponent)
+AddPrefabPostInit("robin", RemoveSleeperComponent)
+AddPrefabPostInit("robin_winter", RemoveSleeperComponent)
+AddPrefabPostInit("canary", RemoveSleeperComponent)
